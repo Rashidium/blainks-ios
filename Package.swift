@@ -15,8 +15,8 @@ let package = Package(
     targets: [
         .binaryTarget(
             name: "Blainks",
-            url: "https://github.com/Rashidium/blainks-ios/releases/download/1.3.10/Blainks.xcframework.zip",
-            checksum: "4486d4a94478bfbefbaf4b00ccba3b15fbb3cf09b45ce89d7908666210a29f55"
+            url: "https://github.com/Rashidium/blainks-ios/releases/download/1.3.24/Blainks.xcframework.zip",
+            checksum: "10a967f0aaa2145be4bfdf774b6e4aaf5ae7f7db2fb44aa79c1c872e0a693ce6"
         )
     ]
 )
